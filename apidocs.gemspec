@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "On Fly RDoc generation"
   s.license = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "README.md"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", ">= 3.2.0"
   s.add_dependency "rdoc", ">= 4.0.0"
@@ -22,4 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency "bootstrap-sass"
 
   s.add_development_dependency "sqlite3"
+  s.add_development_dependency "rspec-rails" , '~> 2.5'
+  s.add_development_dependency "capybara"
+  s.add_development_dependency "selenium-webdriver"
 end

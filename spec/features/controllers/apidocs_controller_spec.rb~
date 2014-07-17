@@ -1,0 +1,18 @@
+require 'spec_helper'
+
+Apidocs.configure do |config|
+	config.regex_filter = /id/ 
+	config.http_username = 'admin'
+	config.http_password = '0832c1202da8d382318e329a7c133ea0'
+end
+
+
+  describe "Apidocs Controller" do
+
+  subject { page }
+  
+  describe "try not to authorize" do
+    before { visit '/apidocs' }
+    it { should_not have_content('Please put API.rdoc') }
+  end
+end

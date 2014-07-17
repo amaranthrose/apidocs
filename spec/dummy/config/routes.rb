@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  mount Apidocs::Engine => "/apidocs"
+  mount Apidocs::Engine, :at => "/apidocs"
   resources :products
 end
