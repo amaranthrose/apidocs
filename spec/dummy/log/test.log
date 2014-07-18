@@ -11484,3 +11484,1050 @@ Started GET "/apidocs/" for 127.0.0.1 at 2014-07-17 16:01:26 +0200
 Processing by Apidocs::ApidocsController#index as HTML
 Completed 200 OK in 97ms (Views: 2.9ms | ActiveRecord: 0.0ms)
   [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (2.3ms)
+Completed 200 OK in 448ms (Views: 266.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (0.7ms)
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (0.7ms)
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.2ms)
+Completed 200 OK in 27ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 87ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 25ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 92ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 25ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 92ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 92ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 25ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 93ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:49:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:00 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2Fnew" for 127.0.0.1 at 2014-07-18 09:50:00 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/new"}
+Completed 200 OK in 24ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:50:00 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:04 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 47ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+Started GET "/assets/apidocs/application.css" for 127.0.0.1 at 2014-07-18 09:50:05 +0200
+Started GET "/assets/apidocs/application.js" for 127.0.0.1 at 2014-07-18 09:50:05 +0200
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:06 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:06 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 33ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:06 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 32ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:06 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 32ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:07 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:09 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 29ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:50:09 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 92ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:10 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:50:10 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 30ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:50:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:50:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:50:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:50:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 102ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:50:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 29ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (2.3ms)
+Completed 200 OK in 261ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.1ms)
+Completed 200 OK in 28ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.0ms)
+Completed 200 OK in 27ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.1ms)
+Completed 200 OK in 28ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 88ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 97ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 96ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 27ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 95ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 93ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 27ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 93ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:19 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 39ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/assets/apidocs/application.css" for 127.0.0.1 at 2014-07-18 09:52:19 +0200
+Started GET "/assets/apidocs/application.js" for 127.0.0.1 at 2014-07-18 09:52:19 +0200
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:20 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 95ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:20 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 33ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:20 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:20 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 97ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:21 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 32ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:23 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:52:23 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 32ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:24 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 29ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:52:24 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 32ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.4ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:26 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:26 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:27 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:27 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:27 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 33ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:28 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:52:28 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 35ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:52:28 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:30 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:30 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:30 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (2.3ms)
+Completed 200 OK in 260ms (Views: 84.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.1ms)
+Completed 200 OK in 28ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (0.7ms)
+Completed 200 OK in 27ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.6ms)
+Completed 200 OK in 27ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 90ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 95ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:31 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 24ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 94ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 26ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 94ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 92ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 27ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 25ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 26ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 25ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 93ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:37 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 37ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Started GET "/assets/apidocs/application.css" for 127.0.0.1 at 2014-07-18 09:54:37 +0200
+Started GET "/assets/apidocs/application.js" for 127.0.0.1 at 2014-07-18 09:54:38 +0200
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:38 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 94ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:38 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 36ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:38 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 36ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:38 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 34ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:39 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 32ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:41 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 29ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:54:41 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 32ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:42 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 28ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 09:54:42 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 27ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:44 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:44 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 27ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:45 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 89ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:45 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 31ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:45 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:46 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 90ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:54:46 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 32ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 09:54:46 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 30ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:52 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:52 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:52 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (2.6ms)
+Completed 200 OK in 1545ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:53 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (0.7ms)
+Completed 200 OK in 606ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:54 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (0.7ms)
+Completed 200 OK in 604ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:54 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Rendered /home/didi/rails_projects/apidocs/app/views/apidocs/apidocs/index.html.erb within layouts/apidocs/application (1.0ms)
+Completed 200 OK in 547ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:55 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 547ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:56 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 556ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:59:56 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 615ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:57 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 562ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:59:57 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 618ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:58 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 533ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 09:59:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 558ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 09:59:59 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 642ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:00 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 558ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:00 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 553ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:01 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 540ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:01 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 553ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:02 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 546ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:03 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 571ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:03 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 561ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:04 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 570ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:04 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 573ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:05 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 574ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:05 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 572ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:06 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 566ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:07 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 550ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:07 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 548ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:08 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 553ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:08 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 574ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:09 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 570ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:09 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 570ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:10 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 563ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:11 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 573ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:11 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 570ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 553ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:12 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 561ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 562ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts" for 127.0.0.1 at 2014-07-18 10:00:13 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products"}
+Completed 200 OK in 569ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:14 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 573ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:20 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 593ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+Started GET "/assets/apidocs/application.css" for 127.0.0.1 at 2014-07-18 10:00:20 +0200
+Started GET "/assets/apidocs/application.js" for 127.0.0.1 at 2014-07-18 10:00:20 +0200
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:21 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 581ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:21 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 569ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:22 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 580ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:23 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 581ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:24 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 576ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:27 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 575ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 10:00:27 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 664ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:28 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 498ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/?path=%2Fproducts%2F%3Aid&search=id" for 127.0.0.1 at 2014-07-18 10:00:29 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+  Parameters: {"path"=>"/products/:id", "search"=>"id"}
+Completed 200 OK in 492ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:32 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 571ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:33 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 580ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:33 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 595ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:34 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 573ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:35 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 565ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:36 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 582ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/apidocs" for 127.0.0.1 at 2014-07-18 10:00:37 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 578ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/apidocs/" for 127.0.0.1 at 2014-07-18 10:00:38 +0200
+Processing by Apidocs::ApidocsController#index as HTML
+Completed 200 OK in 640ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction

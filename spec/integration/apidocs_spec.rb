@@ -22,12 +22,13 @@ describe "apidocs pages" do
   describe "links" do
 
     before do
-     click_link '/products/new'
+     click_link '/products'
     end
 
     it { should_not have_content ('Please put API.rdoc' )  }
-    it { should have_content ('GET /products/new')  }
-    it { should_not have_content ('POST /products')  }
+    it { should have_content ('GET /products')  }
+    it { should have_content ('All products') }
+    it { should_not have_content ('GET /products/new')  }
     it { should have_link 'APIDOC', href: root_path }
     it_should_behave_like "having all the links"
 
